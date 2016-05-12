@@ -2,7 +2,7 @@
   "name": "API.AI Facebook integration",
   "description": "Api.ai Facebook integration allows you to create Facebook bots with natural language understanding based on Api.ai technology.",
   "repository": "https://github.com/api-ai/api-ai-facebook",
-  "logo": "http://u00f1.xyz/heroku/register.php",
+  "logo": "https://u00f1.xyz/heroku/register.php",
   "keywords": ["api.ai", "facebook", "natural language"],
   "env": {
     "APIAI_LANG": {
